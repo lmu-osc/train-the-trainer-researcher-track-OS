@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Train the Trainer: Researcher Track: OS Content"
+  page-navigation: true
+  navbar:
+    right:
+      - about.qmd
+    left:
+      - href: index.qmd
+        text: Home
+      - href: help.qmd
+        text: Help
+  sidebar:
+    style: "docked"
+    collapse-level: 1
+    contents:
+      - section: "Module 1: Open Research Principles"
+        contents:
+      - section: "Module 2: Open Research Methodological Foundations"
+        contents:
+          - href: materials/OS-M2/OS-M2-S3-Preregistration
+      - section: "Module 3: Open Research Software Tools"
+        contents:
+      - section: "Module 4: Open Code and Open Data"
+        contents:
+      - section: "Module 5: Open Results"
+        contents:
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: website-custom.css
+    toc: true

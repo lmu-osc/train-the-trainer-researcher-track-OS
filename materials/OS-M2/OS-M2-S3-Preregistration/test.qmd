@@ -1,0 +1,66 @@
+---
+title: "Welcome to the Test Submodule"
+---
+
+> Something nice here
+
+## About
+
+Welcome! This workshop is for XX audience. Its purpose is to XXX. The main objective of this workshop is to
+
+
+## Contributors
+
+This site was authored by XXX. XX was a reviewer. 
+
+## Prerequisites
+Add prerequisites here (make sure it matches with the slides)
+
+
+
+## Access the materials
+
+<div style="
+  background-color: #e3f2fd;
+  border-left: 6px solid #1e88e5;
+  padding: 1rem 1.25rem;
+  border-radius: 8px;
+  margin: 1.5rem 0;
+">
+  <strong>Learn more:</strong>
+  <a href="text.html" style="color: #1e88e5; text-decoration: none; font-weight: 600;">
+    Visit the test page →
+  </a>
+</div>
+
+
+# Download files
+
+## Practical exercises - solutions
+
+Download the solutions for the practical exercises here: 
+
+{{< downloadthis assets/mtcars.csv dname="carz.csv" label="Download">}}
+
+## Helpfiles
+
+Download the csv file for the mtcars data: 
+
+{{< downloadthis assets/mtcars.csv dname="carz.csv" label="Download">}}
+
+ <!-- https://github.com/shafayetShafee/downloadthis -->
+<!--  https://cran.r-project.org/web/packages/downloadthis/vignettes/downloadthis.html -->
+
+# Export as pdf
+
+You can export these slides as pdf by pressing the button below. Note that basic formatting will be applied.
+
+{{< downloadthis OS-M2-S3-Preregistration-slides.pdf dname="OS-M2-S3-Preregistration-slides" label="Download materials as PDF">}}
+
+ <!-- https://quarto.org/docs/presentations/powerpoint.html#powerpoint-templates -->
+ 
+ ## Licenses
+The overall project is licensed under the CC BY-SA 4.0 license. 
+
+## Notes
+This tutorial was primarily written to XXX.
