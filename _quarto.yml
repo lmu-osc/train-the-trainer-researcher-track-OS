@@ -21,7 +21,7 @@ website:
         contents:
       - section: "Module 2: Open Research Methodological Foundations"
         contents:
-          - href: materials/OS-M2/OS-M2-S3-Preregistration
+          - href: materials/OS-M2/OS-M2-S3-Preregistration/OS-M2-S3-Preregistration.qmd
       - section: "Module 3: Open Research Software Tools"
         contents:
       - section: "Module 4: Open Code and Open Data"

@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the Test Submodule"
+title: "2.3. Introduction to Preregistration"
 ---
 
 > Something nice here
