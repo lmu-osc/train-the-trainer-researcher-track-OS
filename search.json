@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "help.html",
-    "href": "help.html",
-    "title": "Help and troubleshooting",
-    "section": "",
-    "text": "If you get stuck, remember to read the pre-requisites section for each module and submodule. This may give you an important hint of content that may be critical to the current submodule. If you are encountering a bug, please report this to XXXX."
-  },
-  {
-    "objectID": "help.html#i-am-stuck---what-do-i-do",
-    "href": "help.html#i-am-stuck---what-do-i-do",
-    "title": "Help and troubleshooting",
-    "section": "",
-    "text": "If you get stuck, remember to read the pre-requisites section for each module and submodule. This may give you an important hint of content that may be critical to the current submodule. If you are encountering a bug, please report this to XXXX."
-  },
-  {
-    "objectID": "help.html#faq",
-    "href": "help.html#faq",
-    "title": "Help and troubleshooting",
-    "section": "FAQ",
-    "text": "FAQ\n\nFAQ 1\n\n\nFAQ 2"
-  },
-  {
-    "objectID": "help.html#contact",
-    "href": "help.html#contact",
-    "title": "Help and troubleshooting",
-    "section": "Contact",
-    "text": "Contact\nFor any other questions, ideas, feedback or suggestions, please contact XXX."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -89,6 +61,41 @@
     "title": "Welcome to the Test Submodule",
     "section": "Notes",
     "text": "Notes\nThis tutorial was primarily written to XXX."
+  },
+  {
+    "objectID": "help.html",
+    "href": "help.html",
+    "title": "Help and troubleshooting",
+    "section": "",
+    "text": "If you get stuck, remember to read the pre-requisites section for each module and submodule. This may give you an important hint of content that may be critical to the current submodule. If you are encountering a bug, please report this to XXXX."
+  },
+  {
+    "objectID": "help.html#i-am-stuck---what-do-i-do",
+    "href": "help.html#i-am-stuck---what-do-i-do",
+    "title": "Help and troubleshooting",
+    "section": "",
+    "text": "If you get stuck, remember to read the pre-requisites section for each module and submodule. This may give you an important hint of content that may be critical to the current submodule. If you are encountering a bug, please report this to XXXX."
+  },
+  {
+    "objectID": "help.html#faq",
+    "href": "help.html#faq",
+    "title": "Help and troubleshooting",
+    "section": "FAQ",
+    "text": "FAQ\n\nFAQ 1\n\n\nFAQ 2"
+  },
+  {
+    "objectID": "help.html#contact",
+    "href": "help.html#contact",
+    "title": "Help and troubleshooting",
+    "section": "Contact",
+    "text": "Contact\nFor any other questions, ideas, feedback or suggestions, please contact XXX."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Train the Trainer: Student Track - Open Science Modules",
+    "section": "",
+    "text": "This is the landing page for the Train-the-Trainer Student Track.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nOverview\nAdd overview of tracks here.\n\n\nLearning goals\nAdd here.\n\n\nRequirements\nAdd requirements here."
   },
   {
     "objectID": "materials/OS-M2/OS-M2-S3-Preregistration/OS-M2-S3-Preregistration.html",
@@ -185,12 +192,5 @@
       "Module 2: Open Research Methodological Foundations",
       "2.3. Introduction to Preregistration"
     ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Train the Trainer: Student Track - Open Science Modules",
-    "section": "",
-    "text": "This is the landing page for the Train-the-Trainer Student Track.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nOverview\nAdd overview of tracks here.\n\n\nLearning goals\nAdd here.\n\n\nRequirements\nAdd requirements here."
   }
 ]
