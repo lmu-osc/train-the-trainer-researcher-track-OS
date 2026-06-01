@@ -1,68 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "materials/OS-M2/OS-M2-S3-Preregistration/test.html",
-    "href": "materials/OS-M2/OS-M2-S3-Preregistration/test.html",
-    "title": "Welcome to the Test Submodule",
-    "section": "",
-    "text": "Something nice here"
-  },
-  {
-    "objectID": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#about",
-    "href": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#about",
-    "title": "Welcome to the Test Submodule",
-    "section": "About",
-    "text": "About\nWelcome! This workshop is for XX audience. Its purpose is to XXX. The main objective of this workshop is to"
-  },
-  {
-    "objectID": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#contributors",
-    "href": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#contributors",
-    "title": "Welcome to the Test Submodule",
-    "section": "Contributors",
-    "text": "Contributors\nThis site was authored by XXX. XX was a reviewer."
-  },
-  {
-    "objectID": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#prerequisites",
-    "href": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#prerequisites",
-    "title": "Welcome to the Test Submodule",
-    "section": "Prerequisites",
-    "text": "Prerequisites\nAdd prerequisites here (make sure it matches with the slides)"
-  },
-  {
-    "objectID": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#access-the-materials",
-    "href": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#access-the-materials",
-    "title": "Welcome to the Test Submodule",
-    "section": "Access the materials",
-    "text": "Access the materials\n\nLearn more:  Visit the test page →"
-  },
-  {
-    "objectID": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#practical-exercises---solutions",
-    "href": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#practical-exercises---solutions",
-    "title": "Welcome to the Test Submodule",
-    "section": "Practical exercises - solutions",
-    "text": "Practical exercises - solutions\nDownload the solutions for the practical exercises here:\n Download"
-  },
-  {
-    "objectID": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#helpfiles",
-    "href": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#helpfiles",
-    "title": "Welcome to the Test Submodule",
-    "section": "Helpfiles",
-    "text": "Helpfiles\nDownload the csv file for the mtcars data:\n Download"
-  },
-  {
-    "objectID": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#notes",
-    "href": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#notes",
-    "title": "Welcome to the Test Submodule",
-    "section": "Notes",
-    "text": "Notes\nThis tutorial was primarily written to XXX."
-  },
-  {
     "objectID": "help.html",
     "href": "help.html",
     "title": "Help and troubleshooting",
@@ -89,13 +26,6 @@
     "title": "Help and troubleshooting",
     "section": "Contact",
     "text": "Contact\nFor any other questions, ideas, feedback or suggestions, please contact XXX."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Train the Trainer: Student Track - Open Science Modules",
-    "section": "",
-    "text": "This is the landing page for the Train-the-Trainer Student Track.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nOverview\nAdd overview of tracks here.\n\n\nLearning goals\nAdd here.\n\n\nRequirements\nAdd requirements here."
   },
   {
     "objectID": "materials/OS-M2/OS-M2-S3-Preregistration/OS-M2-S3-Preregistration.html",
@@ -192,5 +122,75 @@
       "Module 2: Open Research Methodological Foundations",
       "2.3. Introduction to Preregistration"
     ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "materials/OS-M2/OS-M2-S3-Preregistration/test.html",
+    "href": "materials/OS-M2/OS-M2-S3-Preregistration/test.html",
+    "title": "Welcome to the Test Submodule",
+    "section": "",
+    "text": "Something nice here"
+  },
+  {
+    "objectID": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#about",
+    "href": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#about",
+    "title": "Welcome to the Test Submodule",
+    "section": "About",
+    "text": "About\nWelcome! This workshop is for XX audience. Its purpose is to XXX. The main objective of this workshop is to"
+  },
+  {
+    "objectID": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#contributors",
+    "href": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#contributors",
+    "title": "Welcome to the Test Submodule",
+    "section": "Contributors",
+    "text": "Contributors\nThis site was authored by XXX. XX was a reviewer."
+  },
+  {
+    "objectID": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#prerequisites",
+    "href": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#prerequisites",
+    "title": "Welcome to the Test Submodule",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nAdd prerequisites here (make sure it matches with the slides)"
+  },
+  {
+    "objectID": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#access-the-materials",
+    "href": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#access-the-materials",
+    "title": "Welcome to the Test Submodule",
+    "section": "Access the materials",
+    "text": "Access the materials\n\nLearn more:  Visit the test page →"
+  },
+  {
+    "objectID": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#practical-exercises---solutions",
+    "href": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#practical-exercises---solutions",
+    "title": "Welcome to the Test Submodule",
+    "section": "Practical exercises - solutions",
+    "text": "Practical exercises - solutions\nDownload the solutions for the practical exercises here:\n Download"
+  },
+  {
+    "objectID": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#helpfiles",
+    "href": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#helpfiles",
+    "title": "Welcome to the Test Submodule",
+    "section": "Helpfiles",
+    "text": "Helpfiles\nDownload the csv file for the mtcars data:\n Download"
+  },
+  {
+    "objectID": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#notes",
+    "href": "materials/OS-M2/OS-M2-S3-Preregistration/test.html#notes",
+    "title": "Welcome to the Test Submodule",
+    "section": "Notes",
+    "text": "Notes\nThis tutorial was primarily written to XXX."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Train the Trainer: Student Track - Open Science Modules",
+    "section": "",
+    "text": "This is the landing page for the Train-the-Trainer Student Track.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nOverview\nAdd overview of tracks here.\n\n\nLearning goals\nAdd here.\n\n\nRequirements\nAdd requirements here."
   }
 ]
