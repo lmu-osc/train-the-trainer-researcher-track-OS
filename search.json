@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Train the Trainer: Student Track - Open Science Modules",
+    "section": "",
+    "text": "This is the landing page for the Train-the-Trainer Student Track.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nOverview\nAdd overview of tracks here.\n\n\nLearning goals\nAdd here.\n\n\nRequirements\nAdd requirements here."
+  },
+  {
     "objectID": "materials/OS-M2/OS-M2-S3-Preregistration/test.html",
     "href": "materials/OS-M2/OS-M2-S3-Preregistration/test.html",
     "title": "Welcome to the Test Submodule",
@@ -56,20 +63,6 @@
     "text": "Notes\nThis tutorial was primarily written to XXX."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Train the Trainer: Student Track - Open Science Modules",
-    "section": "",
-    "text": "This is the landing page for the Train-the-Trainer Student Track.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nOverview\nAdd overview of tracks here.\n\n\nLearning goals\nAdd here.\n\n\nRequirements\nAdd requirements here."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "help.html",
     "href": "help.html",
     "title": "Help and troubleshooting",
@@ -96,6 +89,13 @@
     "title": "Help and troubleshooting",
     "section": "Contact",
     "text": "Contact\nFor any other questions, ideas, feedback or suggestions, please contact XXX."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "materials/OS-M2/OS-M2-S3-Preregistration/OS-M2-S3-Preregistration.html",
