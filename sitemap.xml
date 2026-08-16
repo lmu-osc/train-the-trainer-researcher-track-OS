@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lmu-osc.github.io/train-the-trainer-researcher-track-OS/materials/OS-M2/OS-M2-S3-Preregistration/OS-M2-S3-Preregistration.html</loc>
-    <lastmod>2026-08-09T23:23:23.491Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/train-the-trainer-researcher-track-OS/index.html</loc>
-    <lastmod>2026-08-09T23:23:23.490Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/train-the-trainer-researcher-track-OS/about.html</loc>
-    <lastmod>2026-08-09T23:23:23.490Z</lastmod>
+    <loc>https://lmu-osc.github.io/train-the-trainer-researcher-track-OS/materials/OS-M2/OS-M2-S3-Preregistration/test.html</loc>
+    <lastmod>2026-08-16T23:12:19.371Z</lastmod>
   </url>
   <url>
     <loc>https://lmu-osc.github.io/train-the-trainer-researcher-track-OS/help.html</loc>
-    <lastmod>2026-08-09T23:23:23.490Z</lastmod>
+    <lastmod>2026-08-16T23:12:19.370Z</lastmod>
   </url>
   <url>
-    <loc>https://lmu-osc.github.io/train-the-trainer-researcher-track-OS/materials/OS-M2/OS-M2-S3-Preregistration/test.html</loc>
-    <lastmod>2026-08-09T23:23:23.491Z</lastmod>
+    <loc>https://lmu-osc.github.io/train-the-trainer-researcher-track-OS/about.html</loc>
+    <lastmod>2026-08-16T23:12:19.369Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/train-the-trainer-researcher-track-OS/index.html</loc>
+    <lastmod>2026-08-16T23:12:19.370Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/train-the-trainer-researcher-track-OS/materials/OS-M2/OS-M2-S3-Preregistration/OS-M2-S3-Preregistration.html</loc>
+    <lastmod>2026-08-16T23:12:19.371Z</lastmod>
   </url>
 </urlset>
